@@ -1,0 +1,13 @@
+# Pastel palette
+pastel_hex_codes = [
+    '#d8a3d7',  # Pastel Purple
+    '#a9c8e9',  # Pastel Light Blue
+    '#b5b7db',  # Pastel Lavender
+    '#9fa3c7',  # Pastel Dark Blue
+    '#f7b7a3',  # Pastel Peach
+    '#f8d7a3',  # Pastel Yellow
+    '#b3e5c7',  # Pastel Mint Green
+    '#e4b9d9',  # Pastel Pink
+    '#c5aed9',  # Pastel Mauve
+    '#c9b7e1',  # Pastel Lilac
+]
