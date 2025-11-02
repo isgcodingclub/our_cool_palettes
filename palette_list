@@ -11,3 +11,19 @@ pastel_hex_codes = [
     '#c5aed9',  # Pastel Mauve
     '#c9b7e1',  # Pastel Lilac
 ]
+
+colors_color_blind = [
+    "#0f71fc",
+    "#df4101",
+    "#e40dd1",
+    "#010196",
+    "#acfd0d",
+    "#115149",
+    "#21d1fd",
+    "#19a68e",
+    "#590102",
+    "#65018e",
+    "#b7035e",
+    "#ffab97",
+    "#FFFFFF"
+]
